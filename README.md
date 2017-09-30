@@ -2,7 +2,9 @@
 Asks user for a start day and a month or year. The program prints out a calendar for the month/year starting on that day.
 # Example
 What would you like to print:
+
 y: print the entire year
+
 m: print a month
 e: end
  m
